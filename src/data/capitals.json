@@ -1,0 +1,308 @@
+[
+  {
+    "stateName":"Alabama",
+    "stateCode": "AL",
+    "capital": "Montgomery",
+    "position": { "lat":32.361538,"lng":-86.279118 }
+  },
+  {
+    "stateName":"Alaska",
+    "stateCode": "AK",
+    "capital": "Juneau",
+    "position": { "lat":58.301935,"lng":-134.419740 }
+  },
+  {
+    "stateName":"Arizona",
+    "stateCode": "AZ",
+    "capital": "Phoenix",
+    "position": { "lat":33.448457,"lng":-112.073844 }
+  },
+  {
+    "stateName":"Arkansas",
+    "stateCode": "AR",
+    "capital": "Little Rock",
+    "position": { "lat":34.736009,"lng":-92.331122 }
+  },
+  {
+    "stateName":"California",
+    "stateCode": "CA",
+    "capital": "Sacramento",
+    "position": { "lat":38.555605,"lng":-121.468926 }
+  },
+  {
+    "stateName":"Colorado",
+    "stateCode": "CO",
+    "capital": "Denver",
+    "position": { "lat":39.7391667,"lng":-104.984167 }
+  },
+  {
+    "stateName":"Connecticut",
+    "stateCode": "CT",
+    "capital": "Hartford",
+    "position": { "lat":41.767,"lng":-72.677 }
+  },
+  {
+    "stateName":"Delaware",
+    "stateCode": "DE",
+    "capital": "Dover",
+    "position": { "lat":39.161921,"lng":-75.526755 }
+  },
+  {
+    "stateName":"Florida",
+    "stateCode": "FL",
+    "capital": "Tallahassee",
+    "position": { "lat":30.4518,"lng":-84.27277 }
+  },
+  {
+    "stateName":"Georgia",
+    "stateCode": "GA",
+    "capital": "Atlanta",
+    "position": { "lat":33.76,"lng":-84.39 }
+  },
+  {
+    "stateName":"Hawaii",
+    "stateCode": "HI",
+    "capital": "Honolulu",
+    "position": { "lat":21.30895,"lng":-157.826182 }
+  },
+  {
+    "stateName":"Idaho",
+    "stateCode": "ID",
+    "capital": "Boise",
+    "position": { "lat":43.613739,"lng":-116.237651 }
+  },
+  {
+    "stateName":"Illinois",
+    "stateCode": "IL",
+    "capital": "Springfield",
+    "position": { "lat":39.783250,"lng":-89.650373 }
+  },
+  {
+    "stateName":"Indiana",
+    "stateCode": "IN",
+    "capital": "Indianapolis",
+    "position": { "lat":39.790942,"lng":-86.147685 }
+  },
+  {
+    "stateName":"Iowa",
+    "stateCode": "IA",
+    "capital": "Des Moines",
+    "position": { "lat":41.590939,"lng":-93.620866 }
+  },
+  {
+    "stateName":"Kansas",
+    "stateCode": "KS",
+    "capital": "Topeka",
+    "position": { "lat":39.04,"lng":-95.69 }
+  },
+  {
+    "stateName":"Kentucky",
+    "stateCode": "KY",
+    "capital": "Frankfort",
+    "position": { "lat":38.197274,"lng":-84.86311 }
+  },
+  {
+    "stateName":"Louisiana",
+    "stateCode": "LA",
+    "capital": "Baton Rouge",
+    "position": { "lat":30.45809,"lng":-91.140229 }
+  },
+  {
+    "stateName":"Maine",
+    "stateCode": "ME",
+    "capital": "Augusta",
+    "position": { "lat":44.323535,"lng":-69.765261 }
+  },
+  {
+    "stateName":"Maryland",
+    "stateCode": "MD",
+    "capital": "Annapolis",
+    "position": { "lat":38.972945,"lng":-76.501157 }
+  },
+  {
+    "stateName":"Massachusetts",
+    "stateCode": "MA",
+    "capital": "Boston",
+    "position": { "lat":42.2352,"lng":-71.0275 }
+  },
+  {
+    "stateName":"Michigan",
+    "stateCode": "MI",
+    "capital": "Lansing",
+    "position": { "lat":42.7335,"lng":-84.5467 }
+  },
+  {
+    "stateName":"Minnesota",
+    "stateCode": "MN",
+    "capital": "Saint Paul",
+    "position": { "lat":44.95,"lng":-93.094 }
+  },
+  {
+    "stateName":"Mississippi",
+    "stateCode": "MS",
+    "capital": "Jackson",
+    "position": { "lat":32.320,"lng":-90.207 }
+  },
+  {
+    "stateName":"Missouri",
+    "stateCode": "MO",
+    "capital": "Jefferson City",
+    "position": { "lat":38.572954,"lng":-92.189283 }
+  },
+  {
+    "stateName":"Montana",
+    "stateCode": "MT",
+    "capital": "Helana",
+    "position": { "lat":46.595805,"lng":-112.027031 }
+  },
+  {
+    "stateName":"Nebraska",
+    "stateCode": "NE",
+    "capital": "Lincoln",
+    "position": { "lat":40.809868,"lng":-96.675345 }
+  },
+  {
+    "stateName":"Nevada",
+    "stateCode": "NV",
+    "capital": "Carson City",
+    "position": { "lat":39.160949,"lng":-119.753877 }
+  },
+  {
+    "stateName":"New Hampshire",
+    "stateCode": "NH",
+    "capital": "Concord",
+    "position": { "lat":43.220093,"lng":-71.549127 }
+  },
+  {
+    "stateName":"New Jersey",
+    "stateCode": "NJ",
+    "capital": "Trenton",
+    "position": { "lat":40.221741,"lng":-74.756138 }
+  },
+  {
+    "stateName":"New Mexico",
+    "stateCode": "NM",
+    "capital": "Santa Fe",
+    "position": { "lat":35.667231,"lng":-105.964575 }
+  },
+  {
+    "stateName":"New York",
+    "stateCode": "NY",
+    "capital": "Albany",
+    "position": { "lat":42.659829,"lng":-73.781339 }
+  },
+  {
+    "stateName":"North Carolina",
+    "stateCode": "NC",
+    "capital": "Raleigh",
+    "position": { "lat":35.771,"lng":-78.638 }
+  },
+  {
+    "stateName":"North Dakota",
+    "stateCode": "ND",
+    "capital": "Bismarck",
+    "position": { "lat":48.813343,"lng":-100.779004 }
+  },
+  {
+    "stateName":"Ohio",
+    "stateCode": "OH",
+    "capital": "Columbus",
+    "position": { "lat":39.962245,"lng":-83.000647 }
+  },
+  {
+    "stateName":"Oklahoma",
+    "stateCode": "OK",
+    "capital": "Oklahoma City",
+    "position": { "lat":35.482309,"lng":-97.534994 }
+  },
+  {
+    "stateName":"Oregon",
+    "stateCode": "OR",
+    "capital": "Salem",
+    "position": { "lat":44.931109,"lng":-123.029159 }
+  },
+  {
+    "stateName":"Pennsylvania",
+    "stateCode": "PA",
+    "capital": "Harrisburg",
+    "position": { "lat":40.269789,"lng":-76.875613 }
+  },
+  {
+    "stateName":"Puerto Rico",
+    "stateCode": "PR",
+    "capital": "San Juan",
+    "position": { "lat":18.4655,"lng":-66.1057 }
+  },
+  {
+    "stateName":"Rhode Island",
+    "stateCode": "RI",
+    "capital": "Providence",
+    "position": { "lat":41.82355,"lng":-71.422132 }
+  },
+  {
+    "stateName":"South Carolina",
+    "stateCode": "SC",
+    "capital": "Columbia",
+    "position": { "lat":34.000,"lng":-81.035 }
+  },
+  {
+    "stateName":"South Dakota",
+    "stateCode": "SD",
+    "capital": "Pierre",
+    "position": { "lat":44.367966,"lng":-100.336378 }
+  },
+  {
+    "stateName":"Tennessee",
+    "stateCode": "TN",
+    "capital": "Nashville",
+    "position": { "lat":36.165,"lng":-86.784 }
+  },
+  {
+    "stateName":"Texas",
+    "stateCode": "TX",
+    "capital": "Austin",
+    "position": { "lat":30.266667,"lng":-97.75 }
+  },
+  {
+    "stateName":"Utah",
+    "stateCode": "UT",
+    "capital": "Salt Lake City",
+    "position": { "lat":40.7547,"lng":-111.892622 }
+  },
+  {
+    "stateName":"Vermont",
+    "stateCode": "VT",
+    "capital": "Montpelier",
+    "position": { "lat":44.26639,"lng":-72.57194 }
+  },
+  {
+    "stateName":"Virginia",
+    "stateCode": "VA",
+    "capital": "Richmond",
+    "position": { "lat":37.54,"lng":-77.46 }
+  },
+  {
+    "stateName":"Washington",
+    "stateCode": "WA",
+    "capital": "Olympia",
+    "position": { "lat":47.042418,"lng":-122.893077 }
+  },
+  {
+    "stateName":"West Virginia",
+    "stateCode": "WV",
+    "capital": "Charleston",
+    "position": { "lat":38.349497,"lng":-81.633294 }
+  },
+  {
+    "stateName":"Wisconsin",
+    "stateCode": "WI",
+    "capital": "Madison",
+    "position": { "lat":43.074722,"lng":-89.384444 }
+  },
+  {
+    "stateName":"Wyoming",
+    "stateCode": "WY",
+    "capital": "Cheyenne",
+    "position": { "lat":41.145548,"lng":-104.802042 }
+  }
+]

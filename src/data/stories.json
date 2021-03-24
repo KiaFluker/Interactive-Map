@@ -1,0 +1,32 @@
+{
+  "GA": {
+    "stories": [
+      {
+        "name": "Georgia Secretary Of State's Office",
+        "title": "Georgia",
+        "videoSrc": "youtube",
+        "videoId": "IrUdSl4uvaM"
+      }
+    ]
+  },
+  "TX": {
+    "stories": [
+      {
+        "name": "Houston Mayor Speaks Out",
+        "title": "Texas",
+        "videoSrc": "youtube",
+        "videoId": "V6Xj_czvyj0"
+      }
+    ]
+  },
+  "FL": {
+    "stories": [
+      {
+        "name": "Top 40 Florida Man Stories",
+        "title": "Florida",
+        "videoSrc": "youtube",
+        "videoId": "SqsBI1FdisA"
+      }
+    ]
+  }
+}

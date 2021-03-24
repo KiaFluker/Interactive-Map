@@ -1,0 +1,262 @@
+[
+  {
+	  "stateCode":"AK",
+    "image":"AK.png",
+    "adopted":"May 2, 1927"
+  },
+  {
+	  "stateCode":"AL",
+    "image":"AL.png",
+    "adopted":"February 16, 1895"
+  },
+  {
+	  "stateCode":"AR",
+    "image":"AR.png",
+    "adopted":"February 26, 1913 (modifications in 1923, 1924, and 2011)"
+  },
+  {
+	  "stateCode":"AZ",
+    "image":"AZ.png",
+    "adopted":"January 25, 1917"
+  },
+  {
+	  "stateCode":"CA",
+    "image":"CA.png",
+    "adopted":"February 3, 1911"
+  },
+  {
+	  "stateCode":"CO",
+    "image":"CO.png",
+    "adopted":"March 31, 1964"
+  },
+  {
+	  "stateCode":"CT",
+    "image":"CT.png",
+    "adopted":"September 9, 1897"
+  },
+  {
+	  "stateCode":"DE",
+    "image":"DE.png",
+    "adopted":"July 24, 1913"
+  },
+  {
+	  "stateCode":"DC",
+    "image":"DC.png",
+    "adopted":"October 15, 1938"
+  },
+  {
+    "stateCode":"FL",
+    "image":"FL.png",
+    "adopted":"May 6, 1868"
+  },
+  {
+	  "stateCode":"GA",
+    "image":"GA.png",
+    "adopted":"May 8, 2003"
+  },
+  {
+	  "stateCode":"HI",
+    "image":"HI.png",
+    "adopted":"December 29, 1845 (last modified in 1898)"
+  },
+  {
+	  "stateCode":"ID",
+    "image":"ID.png",
+    "adopted":"November 2, 1957"
+  },
+  {
+	  "stateCode":"IA",
+    "image":"IA.png",
+    "adopted":"March 29, 1921"
+  },
+  {
+	  "stateCode":"IL",
+    "image":"IL.png",
+    "adopted":"June 27, 1969"
+  },
+  {
+	  "stateCode":"IN",
+    "image":"IN.png",
+    "adopted":"May 11, 1917 (standardized in 1955)"
+  },
+  {
+	  "stateCode":"KS",
+    "image":"KS.png",
+    "adopted":"September 24, 1961"
+  },
+  {
+	  "stateCode":"KY",
+    "image":"KY.png",
+    "adopted":"March 26, 1918 (standardized 1963)"
+  },
+  {
+	  "stateCode":"LA",
+    "image":"LA.png",
+    "adopted":"Original design: 1912 (current version of design November 22, 2010)"
+  },
+  {
+	  "stateCode":"MA",
+    "image":"MA.png",
+    "adopted":"1908"
+  },
+  {
+	  "stateCode":"MD",
+    "image":"MD.png",
+    "adopted":"March 9, 1904"
+  },
+  {
+	  "stateCode":"ME",
+    "image":"ME.png",
+    "adopted":"February 23, 1909"
+  },
+  {
+	  "stateCode":"MI",
+    "image":"MI.png",
+    "adopted":"August 1, 1911"
+  },
+  {
+	  "stateCode":"MN",
+    "image":"MN.png",
+    "adopted":"August 2, 1983"
+  },
+  {
+	  "stateCode":"MO",
+    "image":"MO.png",
+    "adopted":"March 22, 1913"
+  },
+  {
+	  "stateCode":"MS",
+    "image":"MS.png",
+    "adopted":"January 11, 2021"
+  },
+  {
+	  "stateCode":"MT",
+    "image":"MT.png",
+    "adopted":"July 1, 1981"
+  },
+  {
+	  "stateCode":"NC",
+    "image":"NC.png",
+    "adopted":"March 9, 1885 (modifications in 1991)"
+  },
+  {
+	  "stateCode":"ND",
+    "image":"ND.png",
+    "adopted":"March 11, 1911"
+  },
+  {
+	  "stateCode":"NE",
+    "image":"NE.png",
+    "adopted":"1925 (official on July 16, 1963)"
+  },
+  {
+	  "stateCode":"NH",
+    "image":"NH.png",
+    "adopted":"1931"
+  },
+  {
+	  "stateCode":"NJ",
+    "image":"NJ.png",
+    "adopted":"1777 (modified 1928)"
+  },
+  {
+	  "stateCode":"NM",
+    "image":"NM.png",
+    "adopted":"March 15, 1925"
+  },
+  {
+	  "stateCode":"NV",
+    "image":"NV.png",
+    "adopted":"July 25, 1991"
+  },
+  {
+	  "stateCode":"NY",
+    "image":"NY.png",
+    "adopted":"April 2, 1901"
+  },
+  {
+	  "stateCode":"OH",
+    "image":"OH.png",
+    "adopted":"May 9, 1902"
+  },
+  {
+	  "stateCode":"OK",
+    "image":"OK.png",
+    "adopted":"November 1, 2006"
+  },
+  {
+	  "stateCode":"OR",
+    "image":"OR.png",
+    "adopted":"April 15, 1925"
+  },
+  {
+	  "stateCode":"PA",
+    "image":"PA.png",
+    "adopted":"June 13, 1907"
+  },
+  {
+	  "stateCode":"PR",
+    "image":"PR.png",
+    "adopted":"1952"
+  },
+  {
+	  "stateCode":"RI",
+    "image":"RI.png",
+    "adopted":"November 1, 1897"
+  },
+  {
+	  "stateCode":"SC",
+    "image":"SC.png",
+    "adopted":"January 26, 1861 (modifications made on January 28, 1861)"
+  },
+  {
+	  "stateCode":"SD",
+    "image":"SD.png",
+    "adopted":"November 9, 1992"
+  },
+  {
+	  "stateCode":"TN",
+    "image":"TN.png",
+    "adopted":"April 17, 1905"
+  },
+  {
+	  "stateCode":"TX",
+    "image":"TX.png",
+    "adopted":"January 25, 1839 Readopted: August 31, 1933"
+  },
+  {
+	  "stateCode":"UT",
+    "image":"UT.png",
+    "adopted":"February 16, 2011"
+  },
+  {
+	  "stateCode":"VA",
+    "image":"VA.png",
+    "adopted":"March 28, 1912 (standardized February 1, 1950)"
+  },
+  {
+	  "stateCode":"VT",
+    "image":"VT.png",
+    "adopted":"June 1, 1923"
+  },
+  {
+	  "stateCode":"WA",
+    "image":"WA.png",
+    "adopted":"March 5, 1923 (standardized in 1967)"
+  },
+  {
+	  "stateCode":"WI",
+    "image":"WI.png",
+    "adopted":"May 1, 1981"
+  },
+  {
+	  "stateCode":"WV",
+    "image":"WV.png",
+    "adopted":"March 7, 1962"
+  },
+  {
+	  "stateCode":"WY",
+    "image":"WY.png",
+    "adopted":"January 31, 1917"
+  }
+]
